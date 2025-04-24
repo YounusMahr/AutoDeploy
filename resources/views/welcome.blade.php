@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Welcome to Hello World! Hero Builder Zamana-e-Fareebistan {{ \App\Models\testing::first()->name }}</h1>
+    <h1>Welcome to Hello World! Hero Builder Zamana-e-Fareebistan </h1>
 
 </body>
 </html>
